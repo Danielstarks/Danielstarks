@@ -1,6 +1,6 @@
 ### Olá eu sou Daniel Santos👋
 
-- 🔭 I’m currently working on  com  front-end
+- 🔭 I’m currently workingo com  front-end
 - 🌱 I’m currently learning HTML/CSS/JS
 - 📫 How to reach me: daniel.santos96prf@gmail.com
 - 😄 Pronouns: ele/dele
