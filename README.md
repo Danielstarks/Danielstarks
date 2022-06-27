@@ -35,7 +35,7 @@
   </div>
   
   <di v>
-   ![Snake animation](https://github.com/Danielstarks/Danielstarks/blog/output/github-contribution-grid-snake.svg)
+   ![header](https://github.com/Danielstarks/Danielstarks/blog/output/github-contribution-grid-snake.svg)
     
   </div>
   
